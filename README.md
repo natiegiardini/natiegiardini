@@ -1,7 +1,9 @@
+<img src="https://github.com/natiegiardini/natiegiardini/blob/main/Nat%C3%A1lia.gif">
+
 
 - 👋 Oi, sou @natiegiardini
 - 👀 Estou cursando Ciência da Computação e tenho interesse em Front-end e UX Design.
-- 🌱 Tenho conhecimentos em HTML, CSS, Bootstrap, Javascript e Angular.
+- 🌱 Tenho conhecimentos em HTML, CSS, Bootstrap, Javascript, Angular e Java.
 - 📫 Você pode entrar em contato comigo pelo email: natalialealgiardini#gmail.com
 
 Meu portfólio de UX/UI:
