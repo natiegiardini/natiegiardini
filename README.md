@@ -9,12 +9,8 @@
 Meu portfólio de UX/UI:
 
 Projetos que você irá encontrar aqui:
-- Snake Game;
+
+<a href="https://github.com/natiegiardini/snake-game"> Snake Game </a>
 - Clone Netflix;
 - Jogo da Velha;
 - Petshop website.
-
-<!---
-natiegiardini/natiegiardini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
