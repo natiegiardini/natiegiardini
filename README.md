@@ -15,4 +15,4 @@ Projetos que você irá encontrar aqui:
 - Jogo da Velha;
 - Petshop website.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natiegiardini&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natiegiardini&theme=radical&show_icons=true)
