@@ -14,3 +14,5 @@ Projetos que você irá encontrar aqui:
 - Clone Netflix;
 - Jogo da Velha;
 - Petshop website.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?natiegiardini=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
