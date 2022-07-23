@@ -1,4 +1,4 @@
-<img src="https://github.com/natiegiardini/natiegiardini/blob/main/Nat%C3%A1lia.gif">
+<img src="https://github.com/natiegiardini/natiegiardini/blob/9649539d2469b5e3d28ef6efa1d3ed6875d359a5/Nat%C3%A1lia.gif">
 
 
 - 👋 Oi, sou @natiegiardini
