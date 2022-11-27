@@ -2,8 +2,8 @@
 
 
 - 👋 Oi, sou @natiegiardini
-- 👀 Estou cursando Ciência da Computação e tenho interesse em er Desenvolvedora Full Stack.
-- 🌱 Tenho conhecimentos em HTML, CSS, Javascript, typescript, node, Angular, React, Java, MySQL, SQL, Python, AWS, UX Design e UX Writing
+- 👀 Estou cursando Ciência da Computação e tenho interesse em ser Desenvolvedora Full Stack.
+- 🌱 Tenho conhecimentos em HTML, CSS, Javascript, typescript, Node, Angular, React, Java, MySQL, SQL, Python, AWS, UX Design e UX Writing
 - 📫 Você pode entrar em contato comigo pelo natigiardini@hotmail.com 
 
 Projetos que você irá encontrar aqui:
