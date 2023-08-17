@@ -1,16 +1,10 @@
-<img src="https://github.com/natiegiardini/natiegiardini/blob/9649539d2469b5e3d28ef6efa1d3ed6875d359a5/Nat%C3%A1lia.gif">
-
-
-- 👋 Oi, sou @natiegiardini
-- 👀 Estou cursando Ciência da Computação e tenho interesse em ser Desenvolvedora Full Stack.
-- 🌱 Tenho conhecimentos em HTML, CSS, Javascript, typescript, Node, Angular, React, Java, MySQL, SQL, Python, AWS, UX Design e UX Writing
+- 👋 Oi, sou Natália
+- 👀 Data Analytics
+- 🌱 Tenho conhecimentos em Python, SQL, PowerBI e Excel
 - 📫 Você pode entrar em contato comigo pelo natigiardini@hotmail.com 
 
 Projetos que você irá encontrar aqui:
 
 <a href="https://github.com/natiegiardini/snake-game"> Snake Game </a>
-- Clone Netflix;
-- Jogo da Velha;
-- Petshop website.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natiegiardini&theme=radical&show_icons=true)
